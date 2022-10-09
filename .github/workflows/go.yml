@@ -4,7 +4,6 @@ name: Workflow-Pipeline
     branches:
       - master
       - development
-      - develop
     tags:
       - "*"
 jobs:
