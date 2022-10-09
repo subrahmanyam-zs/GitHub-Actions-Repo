@@ -2,8 +2,7 @@ name: Workflow-Pipeline
 "on":
   push:
     branches:
-      - master
-      - development
+      - GitHub-Actions
     tags:
       - "*"
 jobs:
